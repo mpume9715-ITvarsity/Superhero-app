@@ -1,0 +1,73 @@
+
+
+.gallery img{
+    width: 100%;
+}
+
+
+
+
+table{ font-family: Helvitica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: focus;
+    border-color:chocolate;
+    
+}
+    
+th{
+font-weight: 800;
+    background-color: burlywood;
+    color: #ffffff;
+}
+
+
+menu-bar{
+    color: #990072
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    
+   padding-left: 11px;
+    padding-right: 11px;       
+    
+}
+#menu{
+    width: 100%
+        height: 40px;
+    background-color: aqua;
+    padding-top: 20px;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    font-size: 18 px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#menu a:hover{
+    color: #5077bd;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
